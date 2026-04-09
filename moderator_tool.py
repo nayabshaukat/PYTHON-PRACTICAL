@@ -1,4 +1,4 @@
-message = "This special offer gives you free access to an amazing deal, but be careful because it might be a scam. Some messages look free and exciting, yet they hide real danger and are actually spam designed to trick people."
+message = "This special offer gives you are free access to an amazing deal, but be careful because it might be a scam. Some messages look free and exciting, yet they hide real danger and are actually spam designed to trick people."
 spam_words = ["spam", "free","danger","scam","offer"]
 
 for word in spam_words:
